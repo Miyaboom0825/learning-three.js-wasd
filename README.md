@@ -1,2 +1,2 @@
-# learning-three.js-wasd
+# learning-three-wasd
 Created with CodeSandbox
