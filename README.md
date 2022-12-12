@@ -1,2 +1,2 @@
-# learning-three-wasd
+# study-three-wasd
 Created with CodeSandbox
